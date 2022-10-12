@@ -1,1 +1,1 @@
-0x03-shell_variables_expansions
+a script that creates a global variable
